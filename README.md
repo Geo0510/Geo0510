@@ -1,6 +1,6 @@
-Hola mi nombre es esteban y soy un desarrollador web jr :) 
-Estoy muy interesado en aprender nuevas cosas de este mundo que es el desarrollo web
-Mi pasion esta en el diseño de la pagina mas especifico front end y todo lo que conlleva
-Constantemente estoy actualizandome
+Hello my name is esteban salas, I'm a jr front-end developer :)
+I am very interested in learning new things in this world that is web development
+My passion is in the design of the most specific front end page and everything that goes with it
+I'm constantly updating, currently I'm studying HTML, CSS and JAVASCRIPT to its ground and I'm really for what's coming.
 
-Espero aprender mucho de los desarrolladores en esta pagina
+I hope to learn a lot from the amazing developers on this page.
