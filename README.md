@@ -1,4 +1,4 @@
-## - JUNIOR FRONT-END DEVELOPER IN HTML-CSS-JAVASCRIPT -
+## - JUNIOR FRONT-END DEVELOPER IN HTML | CSS | JAVASCRIPT -
 
 #### * Hello my name is esteban salas, I'm a junior front-end developer :)
 #### * I am very interested in learning new things in this world that is web development
